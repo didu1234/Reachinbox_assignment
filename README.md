@@ -230,7 +230,9 @@ Inedx.html page click an Run it on Live server The first page is this page were 
 
 2) page appear is profile page were we can see the mail that our on our current or we can see orgininal email id  and i have given 5 message limit in this so we can only 5 messages right now. I have guven an increase decrease bar for email were we can extend our gmail count and also given a logout button .Once we logout we directly go to the main page and for login we need permission to access it again .also we can see link which takes directly to the original email.
 
-
+![2](https://github.com/didu1234/Reachinbox_assignment/assets/133500757/9d2e8ba4-6a30-464b-9371-709d094065b1)
+![3](https://github.com/didu1234/Reachinbox_assignment/assets/133500757/3bda0109-11d8-4281-9eee-c8ea4bf50e26)
+![4](https://github.com/didu1234/Reachinbox_assignment/assets/133500757/0fae4089-dd81-48dc-a456-c438a6d9dacd)
 
 
 
