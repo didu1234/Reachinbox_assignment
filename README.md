@@ -225,6 +225,7 @@ export default utils;
 
 OAuth sign-in integration:
 Inedx.html page click an Run it on Live server The first page is this page were we can login to the gmail page.
+![1](https://github.com/didu1234/Reachinbox_assignment/assets/133500757/650810b7-f142-455a-b554-f51ac6e075d6)
 
 
 2) page appear is profile page were we can see the mail that our on our current or we can see orgininal email id  and i have given 5 message limit in this so we can only 5 messages right now. I have guven an increase decrease bar for email were we can extend our gmail count and also given a logout button .Once we logout we directly go to the main page and for login we need permission to access it again .also we can see link which takes directly to the original email.
